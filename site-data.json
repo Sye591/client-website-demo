@@ -1,0 +1,48 @@
+{
+  "business": {
+    "name": "Gordian One",
+    "type": "Accounting firm",
+    "country": "South Africa",
+    "email": "hello@gordianone.co.za",
+    "phone": "+27 00 000 0000",
+    "tagline": "Accounting, tax and advisory services for growing businesses."
+  },
+  "services": [
+    {
+      "title": "Bookkeeping and monthly accounts",
+      "slug": "bookkeeping-monthly-accounts",
+      "summary": "Transaction processing, bank reconciliations, supplier and customer ledger control, and monthly financial packs."
+    },
+    {
+      "title": "Tax and SARS compliance",
+      "slug": "tax-sars-compliance",
+      "summary": "VAT, provisional tax, income tax and compliance deadline support for South African businesses."
+    },
+    {
+      "title": "Payroll administration",
+      "slug": "payroll-administration",
+      "summary": "Payroll processing, payslips, EMP submissions, leave records and monthly payroll control."
+    },
+    {
+      "title": "Annual financial statements",
+      "slug": "annual-financial-statements",
+      "summary": "Year-end statements, supporting schedules and reporting packs for owners, lenders and compliance."
+    },
+    {
+      "title": "Management reporting",
+      "slug": "management-reporting",
+      "summary": "Monthly dashboards, profit analysis, cash-flow snapshots and decision-ready commentary."
+    },
+    {
+      "title": "Business advisory",
+      "slug": "business-advisory",
+      "summary": "Budgeting, forecasting, finance process improvement and practical growth guidance."
+    }
+  ],
+  "industries": [
+    "SMEs and owner-managed companies",
+    "Professional services",
+    "Retail and trading businesses",
+    "Startups and new ventures"
+  ]
+}
